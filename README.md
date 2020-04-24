@@ -5,3 +5,4 @@ het kan zijn dat de code gekraakt wordt als dit gebeurt maak hier direct melding
 github link: https://github.com/kajvan/crypto-versleuteling
 wanneer er iets fout gaat is het uw eigen verantwoordelijkheid.
 als u er melding van maakt zal ik u proberen te helpen maar u kunt mij niet aanspraakelijk maken voor de fout.
+ps werkt alleen op windows.
